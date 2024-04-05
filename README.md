@@ -22,4 +22,4 @@ The goal is for a clear, concise, and compelling resume to be crafted that not o
 4. The link to the GitHub Repo is to be submitted via the LMS Project Tab by the submission deadline.
 
 ### Link to Resume
-[Your Google Docs Resume](<https://drive.google.com/file/d/1CK_UWT3IFPbGPtjTlfiUl7BHAbExm1bK/view?usp=sharing>)
+[Your Google Docs Resume](<https://drive.google.com/file/d/1zfazbefq9YrIgtgw8Lyr7vx19EFjUxrd/view?usp=sharing>)
